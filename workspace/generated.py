@@ -45,7 +45,7 @@ def calculator():
                 print(f"{num1} / {num2} = {result}")
 
         else:
-            print("Invalid input. Please enter a valid choice.")
+            print("Invalid input. Please enter a valid operation.")
 
         next_calculation = input("Do you want to perform another calculation? (yes/no): ")
         if next_calculation.lower() != 'yes':
