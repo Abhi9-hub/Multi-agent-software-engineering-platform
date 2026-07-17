@@ -12,3 +12,5 @@ logs/
 *.sqlite3
 
 *.log
+
+document.md
